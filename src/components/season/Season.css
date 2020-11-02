@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+}
+.season {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 350px;    
+}
+
+
+.winter {
+    background-color: rgb(166, 224, 247);
+    height: 100vh;
+}
+
+.summer {
+    background-color: rgb(230, 188, 112);
+    height: 100vh;
+}
